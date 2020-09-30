@@ -1,0 +1,54 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","introduccion"],
+    "path": "pages/1-tema.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "tecnologias",
+    "title": "1. Tecnologías inmersivas en el aula: ¿qué son y cómo se presentan?",
+    "breadcrumb": ["Inicio","tecnologias"],
+    "path": "pages/2-tema.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "comunicacion",
+    "title": "2. Comunicación digital y distribución de contenidos",
+    "breadcrumb": ["Inicio","comunicacion"],
+    "path": "pages/3-tema.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "temas",
+    "title": "3. Temas complementarios",
+    "breadcrumb": ["Inicio","temas"],
+    "path": "pages/4-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "temas",
+        "title": "¿Qué son los derechos de autor?",
+        "anchor": "que"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "temas",
+        "title": "Licenciamiento y derechos de autor",
+        "anchor": "licenciamiento"
+      }
+    ]
+  }
+]
