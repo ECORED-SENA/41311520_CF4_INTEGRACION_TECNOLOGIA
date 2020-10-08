@@ -1,7 +1,7 @@
 .media-link {
     
     width: 100%;
-    max-width: 325px;
+    max-width: 380px;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap !important;
@@ -16,19 +16,19 @@
         flex: 0 0 40px;
         height: 45px;
         overflow: hidden;
-        margin-right: 1rem;     
+        margin-right: 1rem;       
     }
 
     &-title {
         p {
             color: $primary;
             margin: 0 !important;
-            padding-left: 1rem;
-            text-align: left;
         }      
     }   
     
     &:hover {
-        background-color: #CBD9E4;        
+        background-color: rgb(168, 211, 233); 
     }
-}
+
+}  
+

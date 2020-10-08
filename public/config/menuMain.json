@@ -40,13 +40,13 @@
       {
         "icon": "fa fa-file-text",
         "slug": "temas",
-        "title": "¿Qué son los derechos de autor?",
+        "title": "3.1 ¿Qué son los derechos de autor?",
         "anchor": "que"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "temas",
-        "title": "Licenciamiento y derechos de autor",
+        "title": "3.2 Licenciamiento y derechos de autor",
         "anchor": "licenciamiento"
       }
     ]
